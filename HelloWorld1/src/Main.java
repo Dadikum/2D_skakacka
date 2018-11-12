@@ -9,7 +9,9 @@ public class Main {
 			int c = 5*3;
 			System.out.println(c);
 			System.out.println(a-b);
-			System.out.prntln(b-a);
+			System.out.println(b-a);
+			System.out.println(b);
+
 			
 			
 	}
