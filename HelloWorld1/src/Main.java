@@ -8,6 +8,10 @@ public class Main {
 			int b = 3;
 			int c = 5*3;
 			System.out.println(c);
+			System.out.println(a-b);
+			
+			
+			
 	}
 
 }
