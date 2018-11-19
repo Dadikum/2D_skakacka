@@ -20,7 +20,7 @@ public class Main extends Application{
 		System.out.print("aaaaaaay");
 		System.out.print("yay");
 		System.out.print("ccccccccccccccy");
-		System.out.print("cccccccfsafas");
+		System.out.print("cccccccfssafas");
 	}
 	
 
