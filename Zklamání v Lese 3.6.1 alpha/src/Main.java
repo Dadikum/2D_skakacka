@@ -16,7 +16,11 @@ public class Main extends Application{
 	
 	public void start(Stage primaryStage) throws Exception {
 		System.out.print("yay");
+		System.out.print("yay");		
+		System.out.print("aaaaaaay");
 		System.out.print("yay");
+		System.out.print("ccccccccccccccy");
+		System.out.print("cccccccfsafas");
 	}
 	
 
