@@ -19,6 +19,8 @@ public class Main extends Application{
 		System.out.print("yay");
 		System.out.print("yay");
 		System.out.print("yay");
+		System.out.print("yay");
+		System.out.print("yay");
 	}
 	
 
