@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HelloWorld1/src"/>
+	<classpathentry kind="src" path="Zklamání v Lese 3.6.1 alpha/src"/>
+	<classpathentry kind="output" path="Zklamání v Lese 3.6.1 alpha/bin"/>
+</classpath>
