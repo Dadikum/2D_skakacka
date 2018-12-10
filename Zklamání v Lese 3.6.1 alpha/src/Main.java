@@ -24,7 +24,7 @@ public class Main extends Application{
 		Canvas platno = new Canvas(800,600);
 		gc = platno.getGraphicsContext2D();
 		gc.save();
-		gc.setFill(Color.BLACK);
+		gc.setFill(Color.BLUEVIOLET);
 		gc.fillRect(0, 0, 800, 600);
 		gc.restore();
 		root.getChildren().add(platno);		
